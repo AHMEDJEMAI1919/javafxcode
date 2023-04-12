@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/ahmed/Main.java</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/ahmed/Ahmed.java</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/controllers/StatfxmlController.java</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/controllers/StartfxmlController.java</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/controllers/LoginfxmlController.java</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/controllers/ClientfxmlController.java</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/entities/Utilisateur.java</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/GUI/startfxml.css</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/GUI/statfxml.css</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/controllers/AdminDashboardFXMLController.java</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/GUI/changerpasswordfxml.fxml</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/GUI/clientfxml.fxml</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/GUI/statfxml.fxml</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/GUI/loginfxml.css</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/controllers/ChangerpasswordfxmlController.java</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/GUI/loginfxml.fxml</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/utils/MailTools.java</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/services/Iutilisateur.java</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/GUI/AdminDashboardFXML.fxml</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/GUI/startfxml.fxml</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/services/ServiceUtilisateurIMP.java</file>
+            <file>file:/C:/Users/ahmed%20jemai/Downloads/ch/ahmed/src/utils/MyDB.java</file>
+        </group>
+    </open-files>
+</project-private>
